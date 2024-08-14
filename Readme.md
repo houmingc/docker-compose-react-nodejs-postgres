@@ -153,3 +153,7 @@ client:
 Note: *The commands for `client` are very similar to the already explained above for `server` and `postgres`*
 
 This tutorial provides a basic understanding of using Docker Compose to manage a full-stack application. Explore the code and docker-compose.yml file for further details.
+
+It is working, but the front page is static, no user input allowed.
+Front page is showing the db
+id	First Name	Last Name	Email	gender	phone
